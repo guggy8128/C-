@@ -1,0 +1,14 @@
+c:\Users\Admin\Desktop\C#\ADVANCES\bin\Debug\net8.0\ADVANCES.exe
+c:\Users\Admin\Desktop\C#\ADVANCES\bin\Debug\net8.0\ADVANCES.deps.json
+c:\Users\Admin\Desktop\C#\ADVANCES\bin\Debug\net8.0\ADVANCES.runtimeconfig.json
+c:\Users\Admin\Desktop\C#\ADVANCES\bin\Debug\net8.0\ADVANCES.dll
+c:\Users\Admin\Desktop\C#\ADVANCES\bin\Debug\net8.0\ADVANCES.pdb
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\ADVANCES.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\ADVANCES.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\ADVANCES.AssemblyInfo.cs
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\ADVANCES.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\ADVANCES.dll
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\refint\ADVANCES.dll
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\ADVANCES.pdb
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\ADVANCES.genruntimeconfig.cache
+c:\Users\Admin\Desktop\C#\ADVANCES\obj\Debug\net8.0\ref\ADVANCES.dll
